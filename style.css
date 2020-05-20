@@ -1,0 +1,24 @@
+* {
+    border: 0em 0em;
+}
+
+.one {
+    font-size: 30px;
+    font-style: oblique;
+    align-items: center;
+}
+
+.pic {
+    background-image: url(ms4.jpg);
+    width: 100%;
+}
+
+body {
+    color: black;
+    align-items: center;
+}
+
+.immg {
+    width: 10%;
+    height: 10%;
+}
